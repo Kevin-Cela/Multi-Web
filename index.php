@@ -4,7 +4,7 @@
 </head>
     <body>
     <?php include 'header.php';?>
-    <p>wakanda</p>
+    <?php include 'sidebar.php';?>
     <?php include 'footer.php';?>
     </body>
 </html>
