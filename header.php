@@ -1,26 +1,20 @@
 <html>
+
 <head>
     <style>
-  
         .navbar {
             display: flex;
+            height: 40px;
             background-color: #8E0F0F;
             font-size: 2rem;
-            height: 2.5rem;
         }
-  
+
         .menu {
-            justify-content: space-around;
             font-family: 'Franklin Gothic Medium',
                 'Arial Narrow',
                 Arial, sans-serif;
         }
-  
-        .body {
-            display: flex;
-            background-color: rgb(198, 240, 226);
-        }
-  
+
 
         a {
             text-decoration: none;
@@ -29,7 +23,7 @@
         }
     </style>
 </head>
-  
+
 <body>
     <div class="navbar">
         <div class="menu">
@@ -42,4 +36,5 @@
     </div>
 
 </body>
+
 </html>
