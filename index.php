@@ -3,9 +3,10 @@
 <head>
 <style>
     .grid{
-        width: 80%; float: left;
+        width: 80%; 
+        float: left;
         display: grid;
-            box-sizing: border-box;
+        box-sizing: border-box;
 
 
     }
