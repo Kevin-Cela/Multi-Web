@@ -8,6 +8,7 @@
             grid-template-rows: 90%;
             column-gap: 5px;
             justify-content: center;
+            justify-items: center;
             padding: 10px 10px;
             box-sizing: border-box;
             grid-template-columns: 100px 100px 100px 100px 100px;
